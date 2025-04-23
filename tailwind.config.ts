@@ -28,6 +28,14 @@ export default {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
 				},
+				ussd: {
+					blue: '#0066cc',
+					green: '#00b050',
+					lightBlue: '#e6f2ff',
+					lightGreen: '#e6ffec',
+					gray: '#f0f0f0',
+					dark: '#333333',
+				},
 				secondary: {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
